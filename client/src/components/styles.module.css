@@ -1,0 +1,7 @@
+.typebar {
+    cursor: pointer;
+}
+.typebar:hover {
+    background-color: aqua;
+    color: white;
+}
